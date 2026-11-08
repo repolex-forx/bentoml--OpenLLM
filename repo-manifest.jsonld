@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/OpenLLM/commit/200b37fbf6f75b174e0737b937b886af460495e9",
       "git:hexsha": "200b37fbf6f75b174e0737b937b886af460495e9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/bentoml/OpenLLM/commit/ad5d126d954e21756083f8b00bfc1fed34ecee5f",

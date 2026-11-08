@@ -1,0 +1,7 @@
+[2026-11-08T03:18:56Z] === AST ITERATION 1 START | repo=bentoml/OpenLLM sha=200b37fb ===
+[2026-11-08T03:18:56Z] [iter=1] PHASE START: ast repo=bentoml/OpenLLM sha=200b37fb
+[2026-11-08T03:18:56Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T03:19:06Z] [iter=1] AST chunks built count=1 triples=110099
+[2026-11-08T03:19:06Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/200b37fbf6f75b174e0737b937b886af460495e9/.complete
+[2026-11-08T03:19:06Z] [iter=1] PHASE END: ast elapsed_s=10 elapsed_min=0.2
+[2026-11-08T03:19:06Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
